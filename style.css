@@ -125,7 +125,7 @@ section .container .user .form-box .signup a {
 section .container .user .form-box .signin {
   top: 20px;
 }
-section .container .signup-box {
+/* section .container .signup-box {
   pointer-events: none;
 }
 section .container.active .signup-box {
@@ -156,7 +156,7 @@ section .container .signin-box .img-box {
 }
 section .container.active .signin-box .img-box {
   top: -100%;
-}
+} */
 
 /* Responsive */
 @media (max-width: 991px) {
